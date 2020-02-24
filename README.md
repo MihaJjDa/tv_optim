@@ -1,3 +1,3 @@
 # tv_optim
 
-Task for interview: time distribution for advertisment
+Task for interview: time distribution for advertisments
